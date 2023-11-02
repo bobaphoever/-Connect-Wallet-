@@ -1,5 +1,5 @@
 # ConnectWallet
-A simple Web3 button to connect your wallet that you can add to any Web3 app or website. 
+A simple Web3 button to connect your wallet that you can add to any Web3 app or website. Modified from the thirdweb SDK.
 Compatible wallets include:
 - Metamask
 - Coinbase Wallet

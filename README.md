@@ -8,3 +8,5 @@ Compatible wallets include:
 - Rainbow
 - Zerion Wallet
 - Phantom
+Here's a demo:
+https://github.com/bobaphoever/ConnectWalletButton/assets/126209422/c3bca221-e864-4e3d-a0b0-60b0b2273ed2
